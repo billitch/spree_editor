@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'spree_editor_hooks'
 
 module SpreeEditor
   class Engine < Rails::Engine
